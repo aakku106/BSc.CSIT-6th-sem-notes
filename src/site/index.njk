@@ -3,7 +3,7 @@
     <p class="dg-fallback-index-intro">{{ publishedNotes.length }} note{% if publishedNotes.length != 1 %}s{% endif %} in this garden.</p>
     <ul class="dg-fallback-index-list">
       {% for note in publishedNotes %}
-        <li><a class="internal-link" href="{{ note.url }}">{{ note.title }}</a></li>
+        <li><a class="internal-link" href="{{ note.url | url }}">{{ note.title }}</a></li>
       {% endfor %}
     </ul>
   {% else %}
