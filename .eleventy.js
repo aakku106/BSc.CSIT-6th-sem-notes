@@ -907,8 +907,9 @@ module.exports = function(eleventyConfig) {
   userEleventySetup(eleventyConfig);
 
   return {
+    pathPrefix: "/BSc.CSIT-6th-sem-notes/",
     dir: {
-      input: "src/site",
+     input: "src/site",
       output: "dist",
       data: `_data`,
     },
