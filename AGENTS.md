@@ -11,7 +11,7 @@ Eleventy 3 "Digital Garden" site (Obsidian Digital Garden template) publishing B
 
 ## Links: the dead-link gotcha
 
-`[[wikilinks]]`, `[[Page|Alias]]`, `[[Note#Heading]]`, and markdown relative `.md` links are resolved at build time to real permalinks. Links to vault files **not present** under `src/site/notes/` render as dead links pointing to `/404`. Example: the TW `EXAM.md` note links to `[[TW/Old_sets/…]]` question papers that mostly aren't in this repo — those `/404` links are intentional/by design, not bugs. Only link to files that exist in `src/site/notes/`, or accept the dead link.
+`[[wikilinks]]`, `[[Page|Alias]]`, `[[Note#Heading]]`, and markdown relative `.md` links are resolved at build time to real permalinks. Links to vault files **not present** under `src/site/notes/` render as dead links pointing to `/404`. The repo currently holds all subject hubs plus their `Syllabus` and `Old_sets/` notes (CDC, DOTNET, E-Com, E-Gov, SE, TW), so those links resolve live. Only link to files that actually exist in `src/site/notes/`, or accept the intentional dead link (e.g. the `[[wikilinks]]` doc example in the published `README.md`).
 
 ## Commands
 
