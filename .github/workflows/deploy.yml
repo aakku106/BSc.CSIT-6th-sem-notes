@@ -6,6 +6,7 @@ on:
       - main
   workflow_dispatch:
 
+# REQUIRED: Grants permissions to authenticate and publish to GitHub Pages
 permissions:
   contents: read
   pages: write
