@@ -28,7 +28,7 @@
           <div class="header-tags">
             {% for tag in tags %}
               {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" href="{{ ('/tags/' + tag + '/') | url }}">
+                <a class="tag" href="/tags/{{ tag }}/">
                   #{{tag}}
                 </a>
               {% endif %}
