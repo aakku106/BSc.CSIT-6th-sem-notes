@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 <div align="center">
