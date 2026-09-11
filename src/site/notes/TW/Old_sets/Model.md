@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tw/old-sets/model/","dg-note-properties":{"Subject":"[[Technical Writing]]"}}
+{"dg-publish":true,"permalink":"/tw/old-sets/model/","noteIcon":"","dg-note-properties":{"Subject":"[[Technical Writing]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/se/old-sets/model-ii/","dg-note-properties":{"Subject":"[[Software Engenearing]]"}}
+{"dg-publish":true,"permalink":"/se/old-sets/model-ii/","noteIcon":"","dg-note-properties":{"Subject":"[[Software Engenearing]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dotnet/db/ado-net/","dg-note-properties":{"Subject":"[[DotNet]]"}}
+{"dg-publish":true,"permalink":"/dotnet/db/ado-net/","noteIcon":"","dg-note-properties":{"Subject":"[[DotNet]]"}}
 ---
 
 

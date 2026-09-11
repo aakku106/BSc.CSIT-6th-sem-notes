@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dotnet/old-sets/model/","dg-note-properties":{"Subject":"[[DotNet]]"}}
+{"dg-publish":true,"permalink":"/dotnet/old-sets/model/","noteIcon":"","dg-note-properties":{"Subject":"[[DotNet]]"}}
 ---
 
 

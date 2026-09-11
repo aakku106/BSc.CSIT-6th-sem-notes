@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/se/old-sets/mode-i/","dg-note-properties":{"Subject":"[[Software Engenearing]]"}}
+{"dg-publish":true,"permalink":"/se/old-sets/mode-i/","noteIcon":"","dg-note-properties":{"Subject":"[[Software Engenearing]]"}}
 ---
 
 

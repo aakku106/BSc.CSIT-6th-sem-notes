@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tw/syllabus/","tags":["syllabus","exam","tw"],"dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[Technical Writing]]","Topic":"Syllabus","Semester":6,"Year":"2083","Batch":"2080","tags":["syllabus","exam","tw"]}}
+{"dg-publish":true,"permalink":"/tw/syllabus/","tags":["syllabus","exam","tw"],"noteIcon":"","dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[Technical Writing]]","Topic":"Syllabus","Semester":6,"Year":"2083","Batch":"2080","tags":["syllabus","exam","tw"]}}
 ---
 
 

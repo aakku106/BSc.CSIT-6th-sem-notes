@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dotnet/exam/","tags":["exam","dotnet","analysis"],"dg-note-properties":{"Subject":"[[DotNet]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[DOTNET/Old_sets/2081|2081]]","[[DOTNET/Old_sets/2080|2080]]","[[DOTNET/Old_sets/2079|2079]]","[[DOTNET/Old_sets/2078|2078]]","[[DOTNET/Old_sets/Model|Model]]","[[DOTNET/Old_sets/2076|2076]]"],"tags":["exam","dotnet","analysis"]}}
+{"dg-publish":true,"permalink":"/dotnet/exam/","tags":["exam","dotnet","analysis"],"noteIcon":"","dg-note-properties":{"Subject":"[[DotNet]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[DOTNET/Old_sets/2081|2081]]","[[DOTNET/Old_sets/2080|2080]]","[[DOTNET/Old_sets/2079|2079]]","[[DOTNET/Old_sets/2078|2078]]","[[DOTNET/Old_sets/Model|Model]]","[[DOTNET/Old_sets/2076|2076]]"],"tags":["exam","dotnet","analysis"]}}
 ---
 
 

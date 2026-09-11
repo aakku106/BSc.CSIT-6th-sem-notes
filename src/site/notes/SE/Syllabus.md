@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/se/syllabus/","tags":["syllabus","exam","se"],"dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[Software Engenearing]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["syllabus","exam","se"],"Semester":6}}
+{"dg-publish":true,"permalink":"/se/syllabus/","tags":["syllabus","exam","se"],"noteIcon":"","dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[Software Engenearing]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["syllabus","exam","se"],"Semester":6}}
 ---
 
 

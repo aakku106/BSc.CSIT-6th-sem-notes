@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agents/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/agents/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # AGENTS.md

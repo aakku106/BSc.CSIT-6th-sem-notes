@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cdc/old-sets/model-i/","dg-note-properties":{"Subject":"[[CDC]]"}}
+{"dg-publish":true,"permalink":"/cdc/old-sets/model-i/","noteIcon":"","dg-note-properties":{"Subject":"[[CDC]]"}}
 ---
 
 

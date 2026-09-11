@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tw/exam/","tags":["exam","tw","analysis"],"dg-note-properties":{"Subject":"[[Technical Writing]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[TW/Old_sets/2081|2081]]","[[TW/Old_sets/2080|2080]]","[[TW/Old_sets/2079|2079]]","[[TW/Old_sets/2078|2078]]","[[TW/Old_sets/2075|2075]]","[[TW/Old_sets/2074|2074]]","[[TW/Old_sets/Model|Model]]","[[TW/Old_sets/2076|2076]]"],"tags":["exam","tw","analysis"]}}
+{"dg-publish":true,"permalink":"/tw/exam/","tags":["exam","tw","analysis"],"noteIcon":"","dg-note-properties":{"Subject":"[[Technical Writing]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[TW/Old_sets/2081|2081]]","[[TW/Old_sets/2080|2080]]","[[TW/Old_sets/2079|2079]]","[[TW/Old_sets/2078|2078]]","[[TW/Old_sets/2075|2075]]","[[TW/Old_sets/2074|2074]]","[[TW/Old_sets/Model|Model]]","[[TW/Old_sets/2076|2076]]"],"tags":["exam","tw","analysis"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cdc/internal-exams/exam/","tags":["exam","cdc","analysis"],"dg-note-properties":{"Subject":"[[CDC]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[CDC/Old_sets/2081|2081]]","[[CDC/Old_sets/2080|2080]]","[[CDC/Old_sets/2078|2078]]","[[CDC/Old_sets/2076|2076]]","[[CDC/Old_sets/2075|2075]]","[[CDC/Old_sets/Model_I|Model_I]]","[[CDC/Old_sets/Model_II|Model_II]]","[[CDC/Old_sets/2081(new)|2081 (new)]]"],"tags":["exam","cdc","analysis"]}}
+{"dg-publish":true,"permalink":"/cdc/internal-exams/exam/","tags":["exam","cdc","analysis"],"noteIcon":"","dg-note-properties":{"Subject":"[[CDC]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[CDC/Old_sets/2081|2081]]","[[CDC/Old_sets/2080|2080]]","[[CDC/Old_sets/2078|2078]]","[[CDC/Old_sets/2076|2076]]","[[CDC/Old_sets/2075|2075]]","[[CDC/Old_sets/Model_I|Model_I]]","[[CDC/Old_sets/Model_II|Model_II]]","[[CDC/Old_sets/2081(new)|2081 (new)]]"],"tags":["exam","cdc","analysis"]}}
 ---
 
 

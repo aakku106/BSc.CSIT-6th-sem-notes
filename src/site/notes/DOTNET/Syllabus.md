@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dotnet/syllabus/","tags":["syllabus","exam","dotNet"],"dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[DotNet]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["syllabus","exam","dotNet"],"Semester":6}}
+{"dg-publish":true,"permalink":"/dotnet/syllabus/","tags":["syllabus","exam","dotNet"],"noteIcon":"","dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[DotNet]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["syllabus","exam","dotNet"],"Semester":6}}
 ---
 
 

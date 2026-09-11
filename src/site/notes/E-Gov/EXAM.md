@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-gov/exam/","tags":["exam","e-gov","analysis"],"dg-note-properties":{"Subject":"[[E-government]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[E-Gov/Old_sets/2081|2081]]","[[E-Gov/Old_sets/2080|2080]]","[[E-Gov/Old_sets/2079|2079]]","[[E-Gov/Old_sets/2078|2078]]","[[E-Gov/Old_sets/2076|2076]]","[[E-Gov/Old_sets/Model|Model]]","[[E-Gov/Old_sets/2082|2082]]"],"tags":["exam","e-gov","analysis"]}}
+{"dg-publish":true,"permalink":"/e-gov/exam/","tags":["exam","e-gov","analysis"],"noteIcon":"","dg-note-properties":{"Subject":"[[E-government]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[E-Gov/Old_sets/2081|2081]]","[[E-Gov/Old_sets/2080|2080]]","[[E-Gov/Old_sets/2079|2079]]","[[E-Gov/Old_sets/2078|2078]]","[[E-Gov/Old_sets/2076|2076]]","[[E-Gov/Old_sets/Model|Model]]","[[E-Gov/Old_sets/2082|2082]]"],"tags":["exam","e-gov","analysis"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/se/exam/","tags":["exam","se","analysis"],"dg-note-properties":{"Subject":"[[Software Engenearing]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[SE/Old_sets/2081|2081]]","[[SE/Old_sets/2080|2080]]","[[SE/Old_sets/2079|2079]]","[[SE/Old_sets/2077|2077]]","[[SE/Old_sets/2076|2076]]","[[SE/Old_sets/Mode_I|Mode_I]]","[[SE/Old_sets/Model_II|Model_II]]"],"tags":["exam","se","analysis"]}}
+{"dg-publish":true,"permalink":"/se/exam/","tags":["exam","se","analysis"],"noteIcon":"","dg-note-properties":{"Subject":"[[Software Engenearing]]","Topic":"Important Questions Analysis","Sets Analyzed":["[[SE/Old_sets/2081|2081]]","[[SE/Old_sets/2080|2080]]","[[SE/Old_sets/2079|2079]]","[[SE/Old_sets/2077|2077]]","[[SE/Old_sets/2076|2076]]","[[SE/Old_sets/Mode_I|Mode_I]]","[[SE/Old_sets/Model_II|Model_II]]"],"tags":["exam","se","analysis"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cdc/syllabus/","tags":["exam","syllabus","cdc"],"dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[CDC]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["exam","syllabus","cdc"],"Semester":6}}
+{"dg-publish":true,"permalink":"/cdc/syllabus/","tags":["exam","syllabus","cdc"],"noteIcon":"","dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[CDC]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["exam","syllabus","cdc"],"Semester":6}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-gov/syllabus/","tags":["exam","syllabus","e-gov"],"dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[E-government]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["exam","syllabus","e-gov"],"Semester":6}}
+{"dg-publish":true,"permalink":"/e-gov/syllabus/","tags":["exam","syllabus","e-gov"],"noteIcon":"","dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[E-government]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["exam","syllabus","e-gov"],"Semester":6}}
 ---
 
 

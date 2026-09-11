@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-com/syllabus/","tags":["exam","syllabus","e-com"],"dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[E-commerce]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["exam","syllabus","e-com"],"Semester":6}}
+{"dg-publish":true,"permalink":"/e-com/syllabus/","tags":["exam","syllabus","e-com"],"noteIcon":"","dg-note-properties":{"Course":"[[BSc.CSIT]]","Subject":"[[E-commerce]]","Topic":"Syllabus","Year":"2083","Batch":"2080","tags":["exam","syllabus","e-com"],"Semester":6}}
 ---
 
 

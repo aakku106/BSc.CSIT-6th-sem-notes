@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dotnet/lab/dotnet-labs-code/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dotnet/lab/dotnet-labs-code/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # .NET Lab Codes — Concise (Paper-Writing Style)

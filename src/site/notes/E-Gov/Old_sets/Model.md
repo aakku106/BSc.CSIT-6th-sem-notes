@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-gov/old-sets/model/","dg-note-properties":{"Subject":"[[E-government]]"}}
+{"dg-publish":true,"permalink":"/e-gov/old-sets/model/","noteIcon":"","dg-note-properties":{"Subject":"[[E-government]]"}}
 ---
 
 
