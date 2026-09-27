@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/cdc/lab/cdc-lab-all/","noteIcon":"","dg-note-properties":{"Subject":"[[CDC]]"}}
 ---
 
-
 # CDC Lab Codes — Concise (Paper-Writing Style)
 
 ---

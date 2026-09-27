@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dotnet/lab/dotnet-labs-all/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dotnet/lab/dotnet-labs-all/","noteIcon":"","dg-note-properties":{"Subject":"[[DotNet]]"}}
 ---
 
 # CSIT .NET Lab Tasks — All Labs
